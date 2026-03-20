@@ -1,2 +1,3 @@
-# advanced-security-scanner-smjj
-Automated issue comment bot repository
+# Advanced Security Scanner Smjj
+
+Automated issue comment bot repository.
